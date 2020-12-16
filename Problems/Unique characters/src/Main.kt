@@ -6,13 +6,27 @@ fun main() {
 //    val scanner = Scanner(System.`in`)
 //    val s1 = scanner.next()
 //    getValues(s1)
-    val str = Scanner(System.`in`).next()
-    var count = 0
-    for (s in str) {
-        val t = str.split(s)
-        if (t.size == 2) count++
+
+    val word = readLine()!!
+
+    // part of task: use break/continue/return
+    var countOf1Appearance = 0
+    for (letter in 'a'..'z') {
+        if (word.filter { it == letter }.count() != 1) {
+            continue
+        }
+        countOf1Appearance++
     }
-    println(count)
+    println(countOf1Appearance)
+
+    //This code below is another solution, doesn't need extra function.
+//    val str = Scanner(System.`in`).next()
+//    var count = 0
+//    for (s in str) {
+//        val t = str.split(s)
+//        if (t.size == 2) count++
+//    }
+//    println(count)
 
 }
 
