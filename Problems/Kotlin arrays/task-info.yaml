@@ -5,14 +5,5 @@ files:
   text: TODO()
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10955#comment
-status: Failed
-feedback:
-  message: "Failed test #1 of 4. Runtime error\n\nError:\nException in thread \"main\"\
-    \ kotlin.NotImplementedError: An operation is not implemented.\n\tat MainKt.main(main.kt:8)\n\
-    \tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
-    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
-    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
-    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:64)\n\
-    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:149)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:159)\n"
-  time: Sat, 19 Dec 2020 17:50:47 UTC
+status: Solved
 record: -1
