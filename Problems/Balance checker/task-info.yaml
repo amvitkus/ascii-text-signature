@@ -13,4 +13,19 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4720#comment
 status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10000
+    5000 3000
+    Correct output:
+    Thank you for choosing us to manage your account! You have 2000 money.
+
+    Your code output:
+    Thank you for choosing us to manage your account! You have 5000 money.
+  time: Thu, 24 Dec 2020 16:39:40 UTC
 record: -1
