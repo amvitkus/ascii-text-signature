@@ -8,6 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -23,6 +24,7 @@
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Kotlin arrays" />
+            <option value="$PROJECT_DIR$/Problems/Rickrolling" />
             <option value="$PROJECT_DIR$/Problems/Shapeshifter" />
             <option value="$PROJECT_DIR$/Problems/The number of digits" />
             <option value="$PROJECT_DIR$/Problems/Unique characters" />
