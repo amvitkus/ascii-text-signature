@@ -8,7 +8,6 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -27,6 +26,7 @@
             <option value="$PROJECT_DIR$/Problems/Rickrolling" />
             <option value="$PROJECT_DIR$/Problems/Shapeshifter" />
             <option value="$PROJECT_DIR$/Problems/The number of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
             <option value="$PROJECT_DIR$/Problems/Unique characters" />
             <option value="$PROJECT_DIR$/Problems/Vowel or not" />
             <option value="$PROJECT_DIR$/util" />
