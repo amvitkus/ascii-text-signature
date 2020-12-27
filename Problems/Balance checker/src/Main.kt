@@ -6,14 +6,14 @@ fun main(args: Array<String>) {
     // write your code here
     var initial = scanner.nextInt()
 
-    //while (scanner.hasNextInt()) {
-        var a = scanner.nextInt()
-        var b = scanner.nextInt()
-        var c = scanner.nextInt()
-        var purchase = a + b + c
-        val remainder = initial - purchase
-        val required = remainder + purchase - remainder
-    //}
+    while (scanner.hasNextInt()) {
+
+
+    }
+
+    val purchase = scanner.nextInt()
+    val remainder = initial - purchase
+    val required = remainder + purchase - remainder
 
     print("Thank you for choosing us to manage your account! You have $remainder money.\n")
     initial = remainder
