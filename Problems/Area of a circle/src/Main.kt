@@ -1,10 +1,3 @@
-import java.util.*
-
-fun main(args: Array<String>) {
+fun main() {
     // write your code here
-    val scanner = Scanner(System.`in`)
-
-    val r = scanner.nextDouble()
-
-    val pi = 3.1415
 }
